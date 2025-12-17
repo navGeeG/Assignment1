@@ -1,7 +1,9 @@
 # Assignment 1 – Dart Programming
 
-## Author
-Mariki Godfrey F
+## Group members 
+Mariki, Godfrey F
+Mwachondo, Juma Suma
+Msakamali, Halfan Mostapha
 
 ## Description
 This repository contains Dart programming scenarios demonstrating
