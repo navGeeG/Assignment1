@@ -1,8 +1,8 @@
 # Assignment 1 – Dart Programming
 
 ## Group members 
-Mariki, Godfrey F
-Mwachondo, Juma Suma
+Mariki, Godfrey F 
+##Mwachondo, Juma Suma
 Msakamali, Halfan Mostapha
 
 ## Description
