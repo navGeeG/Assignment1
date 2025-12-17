@@ -1,11 +1,11 @@
 # Assignment 1 – Dart Programming
 
 ## Group members 
-Mariki, Godfrey F 
+Mariki, Godfrey F  BIT/D/2022/001
 
-Mwachondo, Juma Suma
+Mwachondo, Juma Suma  BIT/E/2023/0002
 
-Msakamali, Halfan Mostapha
+Msakamali, Halfan Mostapha  BIT/E/2023/0004
 
 ## Description
 This repository contains Dart programming scenarios demonstrating
